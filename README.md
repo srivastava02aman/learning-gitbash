@@ -2,6 +2,6 @@
 <ul>
 <li>push req
 <li>pull req
-  <li>
-    <li>
+  <li>fork
+    <li>cloning
 </ul>
