@@ -1,5 +1,5 @@
 # learning-gitbash
 <ul>
-push req
-pull req
+<li>push req<li>
+<li>pull req<li>
 </ul>
