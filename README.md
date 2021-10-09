@@ -5,4 +5,6 @@
   <li>fork
     <li>cloning
       <li>commit
+                <li>add .
+
 </ul>
