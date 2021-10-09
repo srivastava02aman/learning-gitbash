@@ -4,4 +4,5 @@
 <li>pull req
   <li>fork
     <li>cloning
+      <li>commit
 </ul>
