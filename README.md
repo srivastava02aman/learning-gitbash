@@ -1,11 +1,11 @@
 # learning-gitbash.
 <ul>
   
-<li>push req
-<li>pull req
-<li>fork
-<li>cloning
-<li>commit
-<li>add .
+<li>Push req
+<li>Pull req
+<li>Fork
+<li>Cloning
+<li>Commit
+<li>Add .
 
 </ul>
